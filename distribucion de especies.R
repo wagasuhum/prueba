@@ -2,7 +2,7 @@ library(SpaDES)
 library(raster)
 library(xfun)
 library(ReIns)
-library(dplyr)
+library(dplyr) # para manipular data
 
 
 # load("rep_distspp_cod/rep_distspp_objetos_operativo.RData")
