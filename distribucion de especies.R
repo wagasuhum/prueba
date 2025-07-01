@@ -1,4 +1,4 @@
-library(SpaDES)
+library(SpaDES)#creo que es otro paquete
 library(raster)
 library(xfun) #otro paquete raro
 library(ReIns) # no se que hace este paquete
