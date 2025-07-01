@@ -1,7 +1,7 @@
 library(SpaDES)
 library(raster)
 library(xfun)
-library(ReIns)
+library(ReIns) # no se que hace este paquete
 library(dplyr) # para manipular data
 
 
