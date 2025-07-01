@@ -1,6 +1,6 @@
 library(SpaDES)
 library(raster)
-library(xfun)
+library(xfun) #otro paquete raro
 library(ReIns) # no se que hace este paquete
 library(dplyr) # para manipular data
 
