@@ -372,3 +372,4 @@ dat_rep_ri_terr_anual <- as.data.frame(t(dat_rep_ri_terr[-1]))  # Transponer sin
 tasa.incremento.territorial <- t(apply(dat_rep_ri_terr_anual, 2, function(x) abs(diff(x, na.rm = TRUE))))
 row.names(tasa.incremento.territorial) <- dat_rep_ri_terr$Terr
 
+###se cambio
